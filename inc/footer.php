@@ -28,8 +28,8 @@
             <div class="col-sm-4 ">
                 <small>
             <span class="center-to-right pull-right text-right">
-               <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">This teaching assessment</span> by <span
-                    xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Penn State University</span> is licensed under a <a
+               <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">This teaching assessment</span> adapted from the <span
+                    xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Penn State University</span> Faculty Self-Assessment for Online Teaching tool is licensed under a <a
                     target="_blank" rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
             </span>
                 </small>
